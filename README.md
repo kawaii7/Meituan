@@ -9,6 +9,7 @@ Vue2.0+Vue-CLI+Vue-Router+better-scroll
 
 **项目运行**
 ```
+git clone https://github.com/kawaii7/Meituan.git
 npm install
 npm run serve
 ```
